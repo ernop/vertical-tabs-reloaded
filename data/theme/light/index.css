@@ -13,7 +13,7 @@
 	--vtr-tab-text-color: #333333;
 	--vtr-tab-background-color: #FBFBFB;
 	--vtr-tab-background: #FBFBFB;
-	--vtr-tab-font-size: 1em;
+	--vtr-tab-font-size: 1.5em;
 	--vtr-tab-font-weight: normal;
 	--vtr-tab-text-shadow: none;
 	--vtr-tab-height: 28px;
@@ -97,6 +97,7 @@
 	--vtr-tab-pinned-padding-left: 0;
 
 	/* Single tab hover */
+	/*
 	--vtr-tab-hover-background-color: #ebebeb;
 	--vtr-tab-hover-background: #ebebeb;
 	--vtr-tab-hover-margin-top: var(--vtr-tab-margin-top);
@@ -109,10 +110,11 @@
 	--vtr-tab-hover-padding-left: var(--vtr-tab-padding-left);
 	--vtr-tab-hover-border-top: 2px solid #000000;
 	--vtr-tab-hover-border-bottom: 2px solid #000000;
+	*/
 
 	/* Close buttons */
-	--vtr-tab-button-close-width: 18px;
-	--vtr-tab-button-close-height: 18px;
+	--vtr-tab-button-close-width: 0px;
+	--vtr-tab-button-close-height: 0px;
 	--vtr-tab-button-close-regular-background-image: url("../../template/basic/icons/light/close-regular.png");
 	--vtr-tab-button-close-hover-background-image: url("../../template/basic/icons/light/close-hover.png");
 	--vtr-tab-button-close-active-background-image: url("../../template/basic/icons/light/close-active.png");
